@@ -1,0 +1,21 @@
+C:\Users\student\source\repos\calc__special\calc__special\bin\Debug\calc__special.exe.config
+C:\Users\student\source\repos\calc__special\calc__special\bin\Debug\calc__special.exe
+C:\Users\student\source\repos\calc__special\calc__special\bin\Debug\calc__special.pdb
+C:\Users\student\source\repos\calc__special\calc__special\obj\Debug\calc__special.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\calc__special\calc__special\obj\Debug\calc__special.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\source\repos\calc__special\calc__special\obj\Debug\calc__special.Form1.resources
+C:\Users\student\source\repos\calc__special\calc__special\obj\Debug\calc__special.Properties.Resources.resources
+C:\Users\student\source\repos\calc__special\calc__special\obj\Debug\calc__special.csproj.GenerateResource.cache
+C:\Users\student\source\repos\calc__special\calc__special\obj\Debug\calc__special.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\calc__special\calc__special\obj\Debug\calc__special.exe
+C:\Users\student\source\repos\calc__special\calc__special\obj\Debug\calc__special.pdb
+C:\Users\Yusra Arshad\Desktop\calc__special\calc__special\bin\Debug\calc__special.exe.config
+C:\Users\Yusra Arshad\Desktop\calc__special\calc__special\bin\Debug\calc__special.exe
+C:\Users\Yusra Arshad\Desktop\calc__special\calc__special\bin\Debug\calc__special.pdb
+C:\Users\Yusra Arshad\Desktop\calc__special\calc__special\obj\Debug\calc__special.csprojAssemblyReference.cache
+C:\Users\Yusra Arshad\Desktop\calc__special\calc__special\obj\Debug\calc__special.Form1.resources
+C:\Users\Yusra Arshad\Desktop\calc__special\calc__special\obj\Debug\calc__special.Properties.Resources.resources
+C:\Users\Yusra Arshad\Desktop\calc__special\calc__special\obj\Debug\calc__special.csproj.GenerateResource.cache
+C:\Users\Yusra Arshad\Desktop\calc__special\calc__special\obj\Debug\calc__special.csproj.CoreCompileInputs.cache
+C:\Users\Yusra Arshad\Desktop\calc__special\calc__special\obj\Debug\calc__special.exe
+C:\Users\Yusra Arshad\Desktop\calc__special\calc__special\obj\Debug\calc__special.pdb
